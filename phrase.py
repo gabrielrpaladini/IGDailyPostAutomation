@@ -1,5 +1,10 @@
+"""Using Wiki Quote API to generate quotes from famous philosophers
+
+List need to be increased"""
+
 import wikiquote
 import random
+
 
 class Quote():
 

@@ -1,3 +1,7 @@
+"""Locators of xpaths and HTMl utils for web crawling
+
+               Suport Upload method"""
+
 
 class Locators():
 

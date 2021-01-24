@@ -1,3 +1,6 @@
+"""Request password and username from a file
+
+By instagram authentication"""
 
 class UserClass:
 

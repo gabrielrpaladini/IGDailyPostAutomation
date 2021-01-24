@@ -6,7 +6,11 @@ from user import UserClass
 import os
 from selenium.webdriver.common.keys import Keys
 
-""" Upload photos to instagram"""
+""" Upload photos to instagram
+
+Use selenium and locator to upload a photo. Emulating IPhone.
+
+"""
 
 class BasePostGenerator():
 
